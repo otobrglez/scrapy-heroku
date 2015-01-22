@@ -32,6 +32,7 @@ For Example:
 scrapy==0.24.4
 scrapyd==1.0.1
 scrapy-heroku==0.7.1
+cffi
 ```
 
 Finally create a `Procfile` that consists of:
