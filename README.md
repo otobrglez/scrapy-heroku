@@ -29,7 +29,7 @@ your project is developed against (pip freeze > requirements.txt).
 For Example:
 ```python
 # requirements.txt
-Scrapy==0.24.4
+scrapy==0.24.4
 scrapyd==1.0.1
 scrapy-heroku==0.7.1
 ```
@@ -42,4 +42,5 @@ web: scrapyd
 ## Requirements
 - Make sure you have a PostgreSQL database with the `DATABASE_URL` ENV parameter set.
 
-* Project page: <http://github.com/dmclain/scrapy-heroku>
+## Credits
+- Project page: <http://github.com/dmclain/scrapy-heroku>
